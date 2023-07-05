@@ -1,0 +1,18 @@
+form > .errors {
+    color: red;
+    font-size: 0.875em;
+    height: 15px;
+    display: flex;
+    align-items: center;
+  }
+
+body{
+  background-color:#f5f5f5;
+}
+
+ul{
+  list-style: none;
+}
+.OneBigDiv {
+  min-height: 1000px;
+}

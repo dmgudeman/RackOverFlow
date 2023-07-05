@@ -1,0 +1,36 @@
+#tags-div {
+    font-family: "Segoe UI Adjusted","Segoe UI","Liberation Sans",sans-serif;
+}
+#label-select-tags{
+    margin-right: 10px;
+}
+
+#tagSelectet{
+    font-size: 15px;
+}
+
+.li-selected-tag{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    gap: 10px;
+    font-size: 15px;
+    margin-bottom: 7px;
+}
+
+#option-select-tag{
+    font-size: 15px;
+}
+
+#option{
+    font-size: 15px;
+}
+
+.remove-tag-button {
+    border: none;
+    border-radius: 3px;
+    background-color: lightgrey;
+    padding: 3px 5px;
+    cursor: pointer;
+    font-weight: 600;
+}
